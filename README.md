@@ -4,7 +4,7 @@ Kameradan alınan görüntülerin(canlı olarak) işlenilerek otopark alanındak
   Öncelikle Otopark üzerinde park alanları fare ile işaretlenir. Kamera üzerinde bu işaretli alanlara araba park edilmesi durumunda boş ve dolu park alanı sayıları 
 güncellenerek kullanıcıya bildirilir.
 
-![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/4.png)
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/4.PNG)
 
 Kullanılan Teknolojiler
 
@@ -21,8 +21,8 @@ Artık görüntü cihazlarının hemen tamamı tam renkli sistemleri kullanıyor
 
 ![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/1.png)
 
-![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/3.png)
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/3.PNG)
 
 
-![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/Boş.png)
-![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/Dolu.png)
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/Boş.jpg)
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/Dolu.jpg)
