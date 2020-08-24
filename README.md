@@ -4,6 +4,8 @@ Kameradan alınan görüntülerin(canlı olarak) işlenilerek otopark alanındak
   Öncelikle Otopark üzerinde park alanları fare ile işaretlenir. Kamera üzerinde bu işaretli alanlara araba park edilmesi durumunda boş ve dolu park alanı sayıları 
 güncellenerek kullanıcıya bildirilir.
 
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/4.png)
+
 Kullanılan Teknolojiler
 
 1) Grayscale, yalnızca beyaz ve siyah renk tonlarının kullanılarak fotoğrafların ve görsellerin meydana getirilmesidir. Bugün her ne kadar kullandığımız cihazların tamamı artık tam renkli sistemi kullanıyor olsa da Grayscale hala nostaljik fotoğraflar meydana getirmek için kullanılan bir yöntem. Kullandığımız popüler fotoğraf düzenleme ve efekt yazılımlarının içerisinde fotoğraflarınızı siyah beyaz hale getirmeye yardımcı olan filtre özellikleri bulunur. Bu özellikler Grayscale adıyla kullanıcıya sunulur.
@@ -18,3 +20,9 @@ Artık görüntü cihazlarının hemen tamamı tam renkli sistemleri kullanıyor
 5) Morfoloji (Boşluk Doldurma): Görüntüler üzerinde yapılan genişletme, aşındırma, sınır belirleme, iskelet ve dışbükey kabuk bulma gibi, temeli küme teorisine dayalı işlemlerdir.
 
 ![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/1.png)
+
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/3.png)
+
+
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/Boş.png)
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/Dolu.png)
