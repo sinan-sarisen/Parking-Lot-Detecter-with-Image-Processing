@@ -23,6 +23,5 @@ Kullanılan Teknolojiler
 
 ![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/3.PNG)
 
-
-![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/Boş.jpg)
 ![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/Dolu.jpg)
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/Boş.jpg)
