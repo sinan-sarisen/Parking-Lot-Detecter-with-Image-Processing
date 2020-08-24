@@ -6,10 +6,11 @@ güncellenerek kullanıcıya bildirilir.
 
 ![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/4.PNG)
 
+![image](https://github.com/sinansa91/Parking-Lot-Detecter-with-Image-Processing/blob/master/Images/1.png)
+
 Kullanılan Teknolojiler
 
-1) Grayscale, yalnızca beyaz ve siyah renk tonlarının kullanılarak fotoğrafların ve görsellerin meydana getirilmesidir. Bugün her ne kadar kullandığımız cihazların tamamı artık tam renkli sistemi kullanıyor olsa da Grayscale hala nostaljik fotoğraflar meydana getirmek için kullanılan bir yöntem. Kullandığımız popüler fotoğraf düzenleme ve efekt yazılımlarının içerisinde fotoğraflarınızı siyah beyaz hale getirmeye yardımcı olan filtre özellikleri bulunur. Bu özellikler Grayscale adıyla kullanıcıya sunulur.
-Artık görüntü cihazlarının hemen tamamı tam renkli sistemleri kullanıyor olmasına rağmen bazı cihazlar hala Grayscale moduyla çalışmaktadır.
+1) Grayscale, yalnızca beyaz ve siyah renk tonlarının kullanılarak fotoğrafların ve görsellerin meydana getirilmesidir. 
 
 2) Histogram, gruplandırılmış bir veri dağılımının sütun grafiğiyle gösterimidir. Diğer bir ifadeyle, tekrarlı sayılardan oluşan verilerin, uygulanan işlemlerden sonra önce tabloya, tablodan yararlanarak grafiğe aktarılması, yani veri gruplarının grafiğinin dikdörtgen sütunlar halinde gösterilmesidir.
 
